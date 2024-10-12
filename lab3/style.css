@@ -1,5 +1,5 @@
 body { 
-        text-align: center; 
+        text-align: justify; 
         background-color: beige; 
         font-family: Arial, sans-serif;
         margin: 10%;
@@ -7,7 +7,6 @@ body {
 
   li { 
         list-style-type: circle; 
-        /* list-style-type: none;  */
         padding: 10px; 
   }
 
