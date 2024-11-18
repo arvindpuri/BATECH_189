@@ -73,7 +73,6 @@ header {
   }
 
 .navbar li:last-child {
-	border-right: none;
 	display: inline;
   }  
 .navbar li a {
